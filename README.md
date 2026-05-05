@@ -1,1 +1,1 @@
-# Joint_Model_Detection_Limits_2015
+This code is associated with the Bernhardt, Wang, and Zhang 2015 paper "FA fast EM algorithm for fitting joint models of a binary response and multiple longitudinal covariates subject to detection limits" appearing in Computational Statistics and Data Analysis.
